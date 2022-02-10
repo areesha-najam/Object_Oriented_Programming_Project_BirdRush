@@ -1,4 +1,5 @@
-# Object_Oriented_Programming_Project_BirdRush
+# Project BirdRush
+## A Classic game implemented using Object Oriented Programming in C++ with SDL2
 
 ## Following are the links to watch progress videos for this project,
 - https://www.youtube.com/watch?v=KU77EBzM3Q8
